@@ -1,8 +1,8 @@
 
-**** TO VIEW DEPLOYMENT & PLAY THE GAME,
+# TO VIEW DEPLOYMENT & PLAY THE GAME,
 VISIT - https://codexgrey.github.io/The-PIG-Game/
 
-The PIG Game
+# The PIG Game
 * This is a game i built as part of my learning path in JavaScript. I watched and coded along as Jonas Schmedtmann built the game in his course "The Complete JavaScript Course 2019". I gained understanding on several important Javascript concepts by doing so;
 
 1. The DOM and DOM manipulation
@@ -15,7 +15,7 @@ The PIG Game
 8. Logical thinking as a programmer.
 9. State Variable
 
-* GAME RULES
+# GAME RULES
 - The game has 2 players, playing in rounds
 - In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score
 - BUT, if the player rolls a 1, all his ROUND score gets lost. After that, it's the next player's turn
