@@ -1,3 +1,7 @@
+
+**** TO VIEW DEPLOYMENT & PLAY THE GAME,
+VISIT - https://codexgrey.github.io/The-PIG-Game/
+
 The PIG Game
 * This is a game i built as part of my learning path in JavaScript. I watched and coded along as Jonas Schmedtmann built the game in his course "The Complete JavaScript Course 2019". I gained understanding on several important Javascript concepts by doing so;
 
@@ -18,8 +22,5 @@ The PIG Game
 - The player can choose to 'Hold', which means that his ROUND score gets added to his GLOBAL score. After that, it's the next player's turn
 - The first player to reach 100 points on GLOBAL score wins the game
 
-
-**** TO PLAY THE GAME,
-VISIT - https://codexgrey.github.io/The-PIG-Game/
 ENJOY...
 
